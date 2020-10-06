@@ -1,0 +1,172 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #f4f4f4;
+}
+#t1{
+    margin-left: 200px;
+}
+
+#search{
+    height:2em;
+    width:500px;
+    background: url(../sh.png);
+
+    background-repeat: no;
+    margin-left: 5em;
+    margin-right: 1em;
+}
+.searchbar{
+    float:left
+}
+
+.button1{
+    float:center;
+    height: 28px;
+    background: #ffffff;
+    border:0;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #0b76da;
+    margin-left:100px;
+}
+.more{
+float:feft;
+font-size: smaller;
+padding-top:5px;
+margin-left: 150px;
+}
+
+
+/*cart logo nav*/
+.nav-item{
+    margin-left: 400px;
+    color:white;
+    float:right;
+}
+
+
+
+#boxes{
+    margin-right:3px;
+    margin-top:3px;
+    padding: 1px;
+
+}
+
+#boxes .box{
+    float:right;
+    text-align: center;
+    width: 33%;
+    padding:0px ;
+}
+
+#boxes .box img{
+    width:100% ;
+    height:230px ;
+    
+}
+
+
+#relative{
+    background-color:white;
+        width: 100%;
+        height: 4em;
+        margin-top:235px;
+
+    }
+
+    #button{
+        float: right;
+      
+        background-color:#007bff!important
+    }
+
+
+    #boxes2{
+        margin-right:3px;
+        margin-top:1px;
+        padding: 1px;
+    
+    }
+    
+    #boxes2 .box{
+        float:right;
+        text-align: center;
+        width: 140px;
+        padding:0px ;
+    }
+    
+    #boxes2 .box img{
+        width:100% ;
+        height:150px;
+    }
+
+    .box:hover{
+        transform: scale(1);
+        overflow: hidden;
+    }
+
+
+.row{
+    margin-top:4px;
+
+}
+
+
+
+
+/*second page*/
+
+   
+
+#first{
+    position: relative;
+    margin-right:3px;
+    margin-top:5px;
+    padding: 1px;
+   
+
+}
+
+.fi{
+   
+    width: 100px;
+    height: 100px;
+    padding:0px ;
+    
+   
+    
+}
+
+#first .fi img{
+    width:80px;
+    height:80px ;
+   padding-bottom:3px;
+   float: right;
+} 
+
+
+#second{
+    position: relative;
+    margin-right:0px;
+    margin-top:3px;
+    padding: 1px;
+   
+
+}
+.se{
+    width:100%;
+    height:350px;
+}
+#second .se img{
+    width:400px;
+    height:500px;
+}
+
+}
+.table{
+    float:left;
+    width:50%;
+    tabl;
+}
